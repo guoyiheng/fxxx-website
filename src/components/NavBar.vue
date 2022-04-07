@@ -5,7 +5,7 @@ import { isDark, toggleDark } from '~/logics'
 <template>
   <nav flex items-center justify-center>
     <h1>
-      <b>Disco</b> Elysium
+      <b>Fine</b> Website
     </h1>
     <div class="flex-auto" />
     <a
