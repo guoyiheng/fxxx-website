@@ -6,5 +6,5 @@ const go = () => {
 </script>
 
 <template>
-  <NavBar />
+  111
 </template>
