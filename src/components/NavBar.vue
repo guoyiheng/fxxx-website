@@ -3,7 +3,7 @@ import { isDark, toggleDark } from '~/logics'
 </script>
 
 <template>
-  <nav flex items-center justify-center>
+  <nav flex items-center justify-center h-55px px4>
     <div class="icon-btn i-carbon:wind-power mr-2 scale-90" />
     <h1>
       <b>Fine</b> Website

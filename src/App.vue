@@ -1,6 +1,7 @@
 <template>
-  <main font-sans p-4 text="gray-700 dark:gray-200">
+  <main font-sans text="gray-700 dark:gray-200">
     <NavBar />
+    <MenuBar fixed w-220px py10 pl-10 />
     <router-view />
   </main>
 </template>

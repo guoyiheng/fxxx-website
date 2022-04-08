@@ -1,18 +1,15 @@
 <script setup lang="ts">
-import { websiteArray } from '~/logics'
+import { setWebsiteRef, websiteArray } from '~/logics'
 </script>
 
 <template>
-  <div grid="~ cols-1 sm:cols-[minmax(150px,20%)_2fr]" p="0 sm:10">
-    <MenuBar />
-    <div>
-      <div v-for="websiteType in websiteArray" :key="websiteType.id">
-        <h1>
-          {{ websiteType.name }}
-        </h1>
-        <div flex="~ wrap" justify-between gap-2>
-          <WebsiteBlock v-for="website in websiteType.children" :key="website.link" :website="website" />
-        </div>
+  <div pl-220px>
+    <div v-for="websiteType in websiteArray" :ref="(el:HTMLElement)=>setWebsiteRef(el,websiteType.id)" :key="websiteType.id" mb-10>
+      <h1 mb-4 font-bold tracking-wide>
+        {{ websiteType.name }}
+      </h1>
+      <div flex="~ wrap" gap-2>
+        <WebsiteBlock v-for="website in websiteType.children" :key="website.link" :website="website" />
       </div>
     </div>
   </div>
