@@ -4,6 +4,7 @@ import { isDark, toggleDark } from '~/logics'
 
 <template>
   <nav flex items-center justify-center>
+    <div class="icon-btn i-carbon:wind-power mr-2 scale-90" />
     <h1>
       <b>Fine</b> Website
     </h1>
