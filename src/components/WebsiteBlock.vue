@@ -1,10 +1,5 @@
 <script setup lang="ts">
-interface Website {
-  title: string
-  description: string
-  image: string
-  link: string
-}
+import type { Website } from '~/logics'
 defineProps<{ website: Website }>()
 </script>
 
