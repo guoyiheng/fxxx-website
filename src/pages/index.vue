@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { json } from 'stream/consumers'
 import type { Website } from '~/logics'
 import { historyVisit, setWebsiteRef, websiteArray } from '~/logics'
 
