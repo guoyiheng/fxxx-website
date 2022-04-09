@@ -613,32 +613,32 @@
     "name": "研报&行业",
     "children": [
       {
-        "link": "https://www.iresearch.cn/",
+        "link": "https://www.iresearch.cn",
         "title": "艾瑞网 🌟🌟",
         "description": "集中在互联网"
       },
       {
-        "link": "https://www.iimedia.cn/",
+        "link": "https://www.iimedia.cn",
         "title": "艾媒网",
         "description": "集中在互联网方面"
       },
       {
-        "link": "https://www.analysys.cn/",
+        "link": "https://www.analysys.cn",
         "title": "易观（易观智库）",
         "description": "除了报告，还会有很多的分析"
       },
       {
-        "link": "https://www.dydata.io/",
+        "link": "https://www.dydata.io",
         "title": "镝数聚 🌟",
         "description": "全球性的行业洞察"
       },
       {
-        "link": "http://www.199it.com/",
+        "link": "http://www.199it.com",
         "title": "199IT-中文互联网数据资讯网",
         "description": "各行各业，种类齐全"
       },
       {
-        "link": "https://www.talkingdata.com/",
+        "link": "https://www.talkingdata.com",
         "title": "talkingdata",
         "description": "质量数量两开花"
       },
@@ -653,7 +653,7 @@
         "description": "及时又权威的数据"
       },
       {
-        "link": "https://www.ebrun.com/",
+        "link": "https://www.ebrun.com",
         "title": "亿邦动力",
         "description": "主打电商，在电子商务行业拥有很大的影响力"
       },
@@ -663,7 +663,7 @@
         "description": "金字塔尖的存在，提供各行业最新资讯、行业洞见等"
       },
       {
-        "link": "https://www.bcg.com/zh-cn/",
+        "link": "https://www.bcg.com/zh-cn",
         "title": "波士顿咨询",
         "description": "全球性"
       },
@@ -686,41 +686,6 @@
         "link": "https://home.kpmg/cn/zh/home/insights.html",
         "title": "毕马威",
         "description": "全球性"
-      }
-    ]
-  },
-  {
-    "name": "其他",
-    "children": [
-      {
-        "link": "https://www.facebook.com/",
-        "title": "Facebook",
-        "description": "社交平台"
-      },
-      {
-        "link": "https://twitter.com/",
-        "title": "Twitter",
-        "description": "社交网络及微博客"
-      },
-      {
-        "link": "https://youtube.com/",
-        "title": "Youtube",
-        "description": "视频网站"
-      },
-      {
-        "link": "https://www.instagram.com/",
-        "title": "Instagram",
-        "description": "图片社交平台"
-      },
-      {
-        "link": "https://www.snapchat.com/",
-        "title": "Snapchat",
-        "description": "图片社交平台"
-      },
-      {
-        "link": "https://www.pinterest.com/",
-        "title": "Pinterest",
-        "description": "图片社交平台"
       }
     ]
   }
