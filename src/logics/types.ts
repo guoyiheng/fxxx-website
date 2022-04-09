@@ -9,7 +9,6 @@ interface WebsiteI {
   link: string
 }
 interface WebsiteTypeI {
-  id: string
   name: string
   children: Website[]
 }

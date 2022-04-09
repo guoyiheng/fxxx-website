@@ -1,9 +1,14 @@
 <script setup lang="ts">
 import { isDark, toggleDark } from '~/logics'
+
 </script>
 
 <template>
-  <nav flex items-center justify-center h-55px px4>
+  <nav
+    flex items-center justify-center
+    h-55px px4 w-full bg-white dark:bg="#121212"
+    border="b-1 [#3c3c3c1f]"
+  >
     <div class="icon-btn i-carbon:wind-power mr-2 scale-90" />
     <h1>
       <b>Fine</b> Website

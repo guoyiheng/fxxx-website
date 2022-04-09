@@ -1,107 +1,5 @@
 [
   {
-    "id": "热门推荐",
-    "name": "热门推荐",
-    "children": [
-      {
-        "link": "http://www.w3schools.com",
-        "title": "w3schools",
-        "description": "WEB初学者教程网站"
-      },
-      {
-        "link": "http://getbootstrap.com",
-        "title": "Bootstrap",
-        "description": "用于前端开发的开源工具包"
-      },
-      {
-        "link": "http://codepen.io",
-        "title": "codepen",
-        "description": "前端炫酷样式技能效果"
-      },
-      {
-        "link": "http://fontawesome.io",
-        "title": "Fontawesome",
-        "description": "全球著名的前端图标字体库"
-      },
-      {
-        "link": "http://oops.re",
-        "title": "OOPS",
-        "description": "404优秀设计案例展示"
-      },
-      {
-        "link": "http://navnav.co",
-        "title": "Navnav",
-        "description": "CSS/JS炫酷前端动效"
-      },
-      {
-        "link": "https://weui.io",
-        "title": "WEUI",
-        "description": "微信官方小程序UI样式库"
-      },
-      {
-        "link": "https://code.facebook.com/projects",
-        "title": "Facebook-code",
-        "description": "facebook开放资源"
-      },
-      {
-        "link": "http://snapsvg.io",
-        "title": "SnapSVG",
-        "description": "SVG动效的JS库"
-      },
-      {
-        "link": "https://codemyui.com",
-        "title": "codemyui",
-        "description": "采集有趣的网站UI代码片段"
-      },
-      {
-        "link": "https://tympanus.net/codrops",
-        "title": "codrops",
-        "description": "网站UI交互源码分享"
-      },
-      {
-        "link": "http://htmlarrows.com",
-        "title": "htmlarrows",
-        "description": "提供HMTL的特殊符号"
-      },
-      {
-        "link": "http://www.copypastecharacter.com",
-        "title": "copypastecharacter",
-        "description": "特殊符号大全表"
-      },
-      {
-        "link": "http://cssdeck.com",
-        "title": "CSSDeck",
-        "description": "在线CSS前端代码Demo样式效果"
-      },
-      {
-        "link": "https://platform.html5.org",
-        "title": "html5 Platform",
-        "description": "HTML5的web浏览技术图谱"
-      },
-      {
-        "link": "http://chuangzaoshi.com/image",
-        "title": "草莓图标",
-        "description": "为开发者设计的一套免费开源图标库"
-      },
-      {
-        "link": "https://www.raspberrypi.org",
-        "title": "树莓派",
-        "description": "编程教育而设计的微电脑"
-      },
-      {
-        "link": "https://w3techs.com",
-        "title": "w3techs",
-        "description": "web网站技术调查报告"
-      },
-      {
-        "link": "https://css-tricks.com",
-        "title": "CSS-Tricks",
-        "description": "优秀的CSS前端技术分享博客"
-      }
-    ]
-  },
-  {
-    "id": "前端框架",
     "name": "前端框架",
     "children": [
       {
@@ -212,7 +110,6 @@
     ]
   },
   {
-    "id": "论坛社区",
     "name": "论坛社区",
     "children": [
       {
@@ -298,7 +195,6 @@
     ]
   },
   {
-    "id": "学习平台",
     "name": "学习平台",
     "children": [
       {
@@ -364,7 +260,6 @@
     ]
   },
   {
-    "id": "个人框架",
     "name": "个人框架",
     "children": [
       {
@@ -410,7 +305,6 @@
     ]
   },
   {
-    "id": "在线编程",
     "name": "在线编程",
     "children": [
       {
@@ -511,7 +405,6 @@
     ]
   },
   {
-    "id": "代码托管",
     "name": "代码托管",
     "children": [
       {
@@ -557,7 +450,6 @@
     ]
   },
   {
-    "id": "构建工具",
     "name": "构建工具",
     "children": [
       {
@@ -603,8 +495,7 @@
     ]
   },
   {
-    "id": "检查测试",
-    "name": "检查测试",
+    "name": "测试",
     "children": [
       {
         "link": "http://www.telerik.com/fiddler",
@@ -649,7 +540,6 @@
     ]
   },
   {
-    "id": "内容管理",
     "name": "内容管理",
     "children": [
       {
@@ -695,8 +585,7 @@
     ]
   },
   {
-    "id": "后端系统",
-    "name": "后端系统",
+    "name": "系统",
     "children": [
       {
         "link": "https://www.ubuntu.com",
@@ -717,6 +606,121 @@
         "link": "https://www.centos.org",
         "title": "Centos",
         "description": "Redhat内核开源免费的linux系统"
+      }
+    ]
+  },
+  {
+    "name": "研报&行业",
+    "children": [
+      {
+        "link": "https://www.iresearch.cn/",
+        "title": "艾瑞网 🌟🌟",
+        "description": "集中在互联网"
+      },
+      {
+        "link": "https://www.iimedia.cn/",
+        "title": "艾媒网",
+        "description": "集中在互联网方面"
+      },
+      {
+        "link": "https://www.analysys.cn/",
+        "title": "易观（易观智库）",
+        "description": "除了报告，还会有很多的分析"
+      },
+      {
+        "link": "https://www.dydata.io/",
+        "title": "镝数聚 🌟",
+        "description": "全球性的行业洞察"
+      },
+      {
+        "link": "http://www.199it.com/",
+        "title": "199IT-中文互联网数据资讯网",
+        "description": "各行各业，种类齐全"
+      },
+      {
+        "link": "https://www.talkingdata.com/",
+        "title": "talkingdata",
+        "description": "质量数量两开花"
+      },
+      {
+        "link": "http://www.aliresearch.com/cn/index",
+        "title": "阿里研究院-阿里行业研究报告",
+        "description": "依托阿里研究院里的海量数据，总有你需要的"
+      },
+      {
+        "link": "http://www.gov.cn/shuju/chaxun/index.htm",
+        "title": "国家宏观经济数据",
+        "description": "及时又权威的数据"
+      },
+      {
+        "link": "https://www.ebrun.com/",
+        "title": "亿邦动力",
+        "description": "主打电商，在电子商务行业拥有很大的影响力"
+      },
+      {
+        "link": "https://www.mckinsey.com.cn",
+        "title": "麦肯锡",
+        "description": "金字塔尖的存在，提供各行业最新资讯、行业洞见等"
+      },
+      {
+        "link": "https://www.bcg.com/zh-cn/",
+        "title": "波士顿咨询",
+        "description": "全球性"
+      },
+      {
+        "link": "https://www2.deloitte.com/cn/zh.html",
+        "title": "德勤",
+        "description": "全球性"
+      },
+      {
+        "link": "https://www.pwccn.com/zh.html",
+        "title": "普华永道",
+        "description": "全球性"
+      },
+      {
+        "link": "https://www.accenture.cn/cn-zh",
+        "title": "埃森哲",
+        "description": "全球性"
+      },
+      {
+        "link": "https://home.kpmg/cn/zh/home/insights.html",
+        "title": "毕马威",
+        "description": "全球性"
+      }
+    ]
+  },
+  {
+    "name": "其他",
+    "children": [
+      {
+        "link": "https://www.facebook.com/",
+        "title": "Facebook",
+        "description": "社交平台"
+      },
+      {
+        "link": "https://twitter.com/",
+        "title": "Twitter",
+        "description": "社交网络及微博客"
+      },
+      {
+        "link": "https://youtube.com/",
+        "title": "Youtube",
+        "description": "视频网站"
+      },
+      {
+        "link": "https://www.instagram.com/",
+        "title": "Instagram",
+        "description": "图片社交平台"
+      },
+      {
+        "link": "https://www.snapchat.com/",
+        "title": "Snapchat",
+        "description": "图片社交平台"
+      },
+      {
+        "link": "https://www.pinterest.com/",
+        "title": "Pinterest",
+        "description": "图片社交平台"
       }
     ]
   }

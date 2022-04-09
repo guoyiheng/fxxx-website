@@ -1,8 +1,14 @@
-import websiteArrayJson from './website.json'
-import type { WebsiteType } from './types'
+import type { Website } from './types'
+import websiteArrayJson from '~/logics/website.json'
+import myFavorite from '~/logics/myFavorite.json'
 
-export const websiteArray = computed<WebsiteType[]>(() => {
-  return websiteArrayJson
+export const historyVisit = useStorage<Website[]>('history-visit', [])
+
+export const websiteArray = computed(() => {
+  return [{
+    name: '经常访问',
+    children: historyVisit.value,
+  }, ...myFavorite, ...websiteArrayJson]
 })
 
 export const websiteRef = reactive<Record<string, HTMLElement>>({})

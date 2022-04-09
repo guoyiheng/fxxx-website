@@ -3,8 +3,11 @@ import { setWebsiteRef, websiteArray } from '~/logics'
 </script>
 
 <template>
-  <div pl-220px>
-    <div v-for="websiteType in websiteArray" :ref="(el:HTMLElement)=>setWebsiteRef(el,websiteType.id)" :key="websiteType.id" mb-10>
+  <div>
+    <div
+      v-for="websiteType in websiteArray" :ref="(el:HTMLElement)=>setWebsiteRef(el,websiteType.name)" :key="websiteType.name"
+      mb-10 mt--75px pt-75px
+    >
       <h1 mb-4 font-bold tracking-wide>
         {{ websiteType.name }}
       </h1>
