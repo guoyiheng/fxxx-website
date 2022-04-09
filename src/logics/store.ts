@@ -12,8 +12,8 @@ export const websiteArray = computed(() => {
 })
 
 export const websiteRef = reactive<Record<string, HTMLElement>>({})
-export function setWebsiteRef(el: HTMLElement, id: string | number): string {
+export function setWebsiteRef(el: HTMLElement, name: string | number): string {
   if (el)
-    websiteRef[id] = el
+    websiteRef[name] = el
   return ''
 }
