@@ -1,14 +1,12 @@
 <script setup lang="ts">
 import type { Website } from '~/logics'
-import { historyVisit } from '~/logics'
 
 const props = defineProps<{ website: Website }>()
-function openLink() {
-  window.open(props.website.link)
-  historyVisit.value.unshift(props.website)
-  historyVisit.value = [...new Set([...historyVisit.value])]
-  if (historyVisit.value.length > 4)
-    historyVisit.value.pop()
+const emit = defineEmits<{
+  (e: 'visit', website: Website): void
+}>()
+function _visit() {
+  emit('visit', props.website)
 }
 </script>
 
@@ -24,7 +22,7 @@ function openLink() {
     bg="gray-100 hover:gray-200 dark:zinc-700 hover:dark:zinc-800"
     :h="website.description ? 25 : 14"
     :class="{ 'justify-center': !website.description }"
-    @click="openLink"
+    @click="_visit"
   >
     <div flex items-center>
       <!-- <div w-5 h-5 mr-2 :style="{ background: 'no-repeat center/contain url(' + website.link + '/favicon.ico),url(' + website.link + '/favicon.png)' }" /> -->

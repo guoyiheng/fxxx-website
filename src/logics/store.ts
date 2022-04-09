@@ -1,6 +1,6 @@
 import type { Website } from './types'
-import websiteArrayJson from '~/logics/website.json'
-import myFavorite from '~/logics/myFavorite.json'
+import websiteJson from '~/logics/website.json'
+import favoriteJson from '~/logics/favorite.json'
 
 export const historyVisit = useStorage<Website[]>('history-visit', [])
 
@@ -9,8 +9,8 @@ export const websiteArray = computed(() => {
     ? [{
       name: '历史访问',
       children: historyVisit.value,
-    }, ...myFavorite, ...websiteArrayJson]
-    : [...myFavorite, ...websiteArrayJson]
+    }, ...favoriteJson, ...websiteJson]
+    : [...favoriteJson, ...websiteJson]
 })
 
 export const websiteRef = reactive<Record<string, HTMLElement>>({})
@@ -19,3 +19,12 @@ export function setWebsiteRef(el: HTMLElement, name: string | number): string {
     websiteRef[name] = el
   return ''
 }
+
+const icon = useFavicon()
+const isLeft = usePageLeave()
+watchEffect(() => {
+  if (isLeft.value)
+    icon.value = 'leave.svg'
+  else
+    icon.value = 'favicon.svg'
+})

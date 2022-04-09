@@ -1,5 +1,18 @@
 <script setup lang="ts">
-import { setWebsiteRef, websiteArray } from '~/logics'
+import { json } from 'stream/consumers'
+import type { Website } from '~/logics'
+import { historyVisit, setWebsiteRef, websiteArray } from '~/logics'
+
+function handleVisit(website: Website) {
+  window.open(website.link)
+  historyVisit.value.unshift(website)
+  // object array unique
+  const history = historyVisit.value.map(i => JSON.stringify(i))
+  historyVisit.value = [...new Set(history)].map(i => JSON.parse(i))
+  if (historyVisit.value.length > 4)
+    historyVisit.value.pop()
+}
+
 </script>
 
 <template>
@@ -12,7 +25,7 @@ import { setWebsiteRef, websiteArray } from '~/logics'
         {{ websiteType.name }}
       </h1>
       <div flex="~ wrap" gap-2>
-        <WebsiteBlock v-for="website in websiteType.children" :key="website.link" :website="website" />
+        <WebsiteBlock v-for="website in websiteType.children" :key="website.link" :website="website" @visit="handleVisit" />
       </div>
     </div>
   </div>

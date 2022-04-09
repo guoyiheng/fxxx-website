@@ -5,7 +5,7 @@ export type ExpandRecursively<T> = T extends object ? (T extends infer O ? { [K 
 
 interface WebsiteI {
   title: string
-  description: string
+  description?: string
   link: string
 }
 interface WebsiteTypeI {
