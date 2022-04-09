@@ -4,60 +4,63 @@
     "children": [
       {
         "title": "Vue.js",
-        "link": "https://v3.cn.vuejs.org/guide/introduction.html"
+        "link": "https://v3.cn.vuejs.org/guide/introduction.html/"
       },
       {
         "title": "Vite",
-        "link": "https://cn.vitejs.dev"
+        "link": "https://cn.vitejs.dev/"
       },
       {
         "title": "Vitest",
-        "link": "https://vitest.dev/guide"
+        "link": "https://vitest.dev/guide/"
       },
-
+      {
+        "title": "VueUse",
+        "link": "https://vueuse.org/functions.html/"
+      },
       {
         "title": "Netlify",
-        "link": "https://app.netlify.com"
+        "link": "https://app.netlify.com/"
       },
       {
         "title": "Icônes",
-        "link": "https://icones.netlify.app/collection/carbon"
+        "link": "https://icones.netlify.app/collection/carbon/"
       },
       {
         "title": "Fine icon for Notion",
-        "link": "https://fxxx-icons.netlify.app"
-      },
-      {
-        "title": "Flaticon",
-        "link": "https://www.flaticon.com"
+        "link": "https://fxxx-icons.netlify.app/"
       },
       {
         "title": "Gitmoji",
-        "link": "https://gitmoji.dev"
+        "link": "https://gitmoji.dev/"
       },
       {
         "title": "UnoCSS",
-        "link": "https://unocss.antfu.me"
+        "link": "https://unocss.antfu.me/"
       },
       {
         "title": "Windi CSS",
-        "link": "https://windicss.org"
+        "link": "https://windicss.org/"
       },
       {
         "title": "Tailwind CSS",
-        "link": "https://www.tailwindcss.cn/docs/installation"
+        "link": "https://www.tailwindcss.cn/docs/installation/"
       },
       {
         "title": "Animista",
-        "link": "https://animista.net/play/basic"
+        "link": "https://animista.net/play/basic/"
       },
       {
         "title": "Excalidraw",
-        "link": "https://excalidraw.com"
+        "link": "https://excalidraw.com/"
       },
       {
         "title": "Perflink",
-        "link": "https://perf.builder.io/?q=eyJpZCI6InJjbWN6eHRvenBtIiwidGl0bGUiOiJGaW5kaW5nIG51bWJlcnMgaW4gYW4gYXJyYXkiLCJiZWZvcmUiOiJjb25zdCBkYXRhID0gWy4uLkFycmF5KDEwMDApLmtleXMoKV0iLCJ0ZXN0cyI6W3sibmFtZSI6IkZpbmQgaXRlbSAxMDAiLCJjb2RlIjoiZGF0YS5maW5kKHggPT4geCA9PSAxMDApIiwib3BzIjoyMDMzNjAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gMjAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gMjAwKSIsIm9wcyI6OTk1NjAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gNDAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gNDAwKSIsIm9wcyI6NTUzNTAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gODAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gODAwKSIsIm9wcyI6Mjc2NjAsInJ1bnMiOltdfV0sInVwZGF0ZWQiOiIyMDIyLTA0LTAyVDE0OjQ3OjQ0LjgxNloifQ%3D%3D"
+        "link": "https://perf.builder.io/?q=eyJpZCI6InJjbWN6eHRvenBtIiwidGl0bGUiOiJGaW5kaW5nIG51bWJlcnMgaW4gYW4gYXJyYXkiLCJiZWZvcmUiOiJjb25zdCBkYXRhID0gWy4uLkFycmF5KDEwMDApLmtleXMoKV0iLCJ0ZXN0cyI6W3sibmFtZSI6IkZpbmQgaXRlbSAxMDAiLCJjb2RlIjoiZGF0YS5maW5kKHggPT4geCA9PSAxMDApIiwib3BzIjoyMDMzNjAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gMjAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gMjAwKSIsIm9wcyI6OTk1NjAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gNDAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gNDAwKSIsIm9wcyI6NTUzNTAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gODAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gODAwKSIsIm9wcyI6Mjc2NjAsInJ1bnMiOltdfV0sInVwZGF0ZWQiOiIyMDIyLTA0LTAyVDE0OjQ3OjQ0LjgxNloifQ%3D%3D/"
+      },
+      {
+        "title": "Flaticon",
+        "link": "https://www.flaticon.com/"
       }
     ]
   },
@@ -65,27 +68,27 @@
     "name": "社交*",
     "children": [
       {
-        "link": "https://www.notion.so",
+        "link": "https://www.notion.so/",
         "title": "Notion"
       },
       {
-        "link": "https://mail.google.com",
+        "link": "https://mail.google.com/",
         "title": "Gmail"
       },
       {
-        "link": "https://twitter.com",
+        "link": "https://twitter.com/",
         "title": "Twitter"
       },
       {
-        "link": "https://www.instagram.com",
+        "link": "https://www.instagram.com/",
         "title": "Instagram"
       },
       {
-        "link": "https://youtube.com",
+        "link": "https://youtube.com/",
         "title": "Youtube"
       },
       {
-        "link": "https://web.telegram.org",
+        "link": "https://web.telegram.org/",
         "title": "Telegram"
       }
     ]
@@ -95,19 +98,19 @@
     "children": [
       {
         "title": "Visualizer",
-        "link": "https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24"
+        "link": "https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24/"
       },
       {
         "title": "regex101",
-        "link": "https://regex101.com/r/dmRygT/1"
+        "link": "https://regex101.com/r/dmRygT/1/"
       },
       {
         "title": "learn-regex",
-        "link": "https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md"
+        "link": "https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md/"
       },
       {
         "title": "super-expressive",
-        "link": "https://github.com/francisrstokes/super-expressive"
+        "link": "https://github.com/francisrstokes/super-expressive/"
       }
     ]
   },
@@ -116,181 +119,180 @@
     "children": [
       {
         "title": "antfu/ts-starter",
-        "link": "https://github.com/antfu/ts-starter"
+        "link": "https://github.com/antfu/ts-starter/"
       },
       {
         "title": "antfu/vitesse-lite",
-        "link": "https://github.com/antfu/vitesse-lite"
+        "link": "https://github.com/antfu/vitesse-lite/"
       },
       {
         "title": "antfu/vitesse",
-        "link": "https://github.com/antfu/vitesse"
+        "link": "https://github.com/antfu/vitesse/"
       },
       {
         "title": "Vben Admin",
-        "link": "https://vvbin.cn/doc-next/guide/introduction.html"
+        "link": "https://vvbin.cn/doc-next/guide/introduction.html/"
       },
       {
         "title": "RuoYi-Vue",
-        "link": "https://gitee.com/y_project/RuoYi-Vue"
+        "link": "https://gitee.com/y_project/RuoYi-Vue/"
       },
       {
         "title": "FEMessage/vue-sfc-cli",
-        "link": "https://github.com/FEMessage/vue-sfc-cli"
+        "link": "https://github.com/FEMessage/vue-sfc-cli/"
       }
     ]
   },
-
   {
     "name": "资源&设计*",
     "children": [
       {
         "title": "Devhints",
-        "link": "https://devhints.io"
+        "link": "https://devhints.io/"
       },
       {
         "title": "disco-elysium",
-        "link": "https://disco-elysium.netlify.app"
+        "link": "https://disco-elysium.netlify.app/"
       },
       {
         "title": "Faviator",
-        "link": "https://www.faviator.xyz/playground"
+        "link": "https://www.faviator.xyz/playground/"
       },
       {
         "title": "code images",
-        "link": "https://carbon.now.sh/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=seti&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=const%2520pluckDeep%2520%253D%2520key%2520%253D%253E%2520obj%2520%253D%253E%2520key.split(%27.%27).reduce((accum%252C%2520key)%2520%253D%253E%2520accum%255Bkey%255D%252C%2520obj)%250A%250Aconst%2520unfold%2520%253D%2520(f%252C%2520seed)%2520%253D%253E%2520%257B%250A%2520%2520const%2520go%2520%253D%2520(f%252C%2520seed%252C%2520acc)%2520%253D%253E%2520%257B%250A%2520%2520%2520%2520const%2520res%2520%253D%2520f(seed)%250A%2520%2520%2520%2520return%2520res%2520%253F%2520go(f%252C%2520res%255B1%255D%252C%2520acc.concat(%255Bres%255B0%255D%255D))%2520%253A%2520acc%250A%2520%2520%257D%250A%2520%2520return%2520go(f%252C%2520seed%252C%2520%255B%255D)%250A%257D"
+        "link": "https://carbon.now.sh/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=seti&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=const%2520pluckDeep%2520%253D%2520key%2520%253D%253E%2520obj%2520%253D%253E%2520key.split(%27.%27).reduce((accum%252C%2520key)%2520%253D%253E%2520accum%255Bkey%255D%252C%2520obj)%250A%250Aconst%2520unfold%2520%253D%2520(f%252C%2520seed)%2520%253D%253E%2520%257B%250A%2520%2520const%2520go%2520%253D%2520(f%252C%2520seed%252C%2520acc)%2520%253D%253E%2520%257B%250A%2520%2520%2520%2520const%2520res%2520%253D%2520f(seed)%250A%2520%2520%2520%2520return%2520res%2520%253F%2520go(f%252C%2520res%255B1%255D%252C%2520acc.concat(%255Bres%255B0%255D%255D))%2520%253A%2520acc%250A%2520%2520%257D%250A%2520%2520return%2520go(f%252C%2520seed%252C%2520%255B%255D)%250A%257D/"
       },
       {
         "title": "ASCIIFlow",
-        "link": "http://asciiflow.com"
+        "link": "http://asciiflow.com/"
       },
       {
         "title": "TinyPNG",
-        "link": "https://tinypng.com"
+        "link": "https://tinypng.com/"
       },
       {
         "title": "CSSFX",
-        "link": "https://cssfx.netlify.com"
+        "link": "https://cssfx.netlify.com/"
       },
       {
         "title": "ColorDrop",
-        "link": "https://colordrop.io"
+        "link": "https://colordrop.io/"
       },
       {
         "title": "Logoly.Pro",
-        "link": "https://www.logoly.pro"
+        "link": "https://www.logoly.pro/"
       },
       {
         "title": "Table Convert Online",
-        "link": "https://tableconvert.com"
+        "link": "https://tableconvert.com/"
       },
       {
         "title": "Google Fonts",
-        "link": "https://fonts.google.com"
+        "link": "https://fonts.google.com/"
       },
       {
         "title": "uiGradients",
-        "link": "https://uigradients.com/#GradeGrey"
+        "link": "https://uigradients.com/#GradeGrey/"
       },
       {
         "title": "Cartoonizer",
-        "link": "https://cartoonize-lkqov62dia-de.a.run.app/cartoonize"
+        "link": "https://cartoonize-lkqov62dia-de.a.run.app/cartoonize/"
       },
       {
         "title": "OCR",
-        "link": "https://web.baimiaoapp.com"
+        "link": "https://web.baimiaoapp.com/"
       },
       {
         "title": "Transform",
-        "link": "https://transform.tools"
+        "link": "https://transform.tools/"
       },
       {
         "title": "PS",
-        "link": "https://www.uupoop.com/#/editor?id=17935805064555614&mode=user"
+        "link": "https://www.uupoop.com/#/editor?id=17935805064555614&mode=user/"
       },
       {
         "title": "ProcessOn",
-        "link": "https://www.processon.com"
+        "link": "https://www.processon.com/"
       },
       {
         "title": "30 seconds of code",
-        "link": "https://www.30secondsofcode.org"
+        "link": "https://www.30secondsofcode.org/"
       },
       {
         "title": "Translate",
-        "link": "https://smodin.io/translate-one-text-into-multiple-languages"
+        "link": "https://smodin.io/translate-one-text-into-multiple-languages/"
       },
       {
         "title": "ImgURL",
-        "link": "https://imgurl.org"
+        "link": "https://imgurl.org/"
       },
       {
         "title": "视力障碍测试",
-        "link": "https://lynx.browser.org"
+        "link": "https://lynx.browser.org/"
       },
       {
         "title": "URL Shortener",
-        "link": "http://hj.vc"
+        "link": "http://hj.vc/"
       },
       {
         "title": "CSS arrow",
-        "link": "https://works.yangerxiao.com/css-arrow-generator"
+        "link": "https://works.yangerxiao.com/css-arrow-generator/"
       },
       {
         "title": "Can I use...",
-        "link": "https://caniuse.com/#home"
+        "link": "https://caniuse.com/#home/"
       },
       {
         "title": "TodoMVC",
-        "link": "http://todomvc.com"
+        "link": "http://todomvc.com/"
       },
       {
         "title": "loading.io",
-        "link": "https://loading.io"
+        "link": "https://loading.io/"
       },
       {
         "title": "1linelayouts",
-        "link": "http://1linelayouts.glitch.me"
+        "link": "http://1linelayouts.glitch.me/"
       },
       {
         "title": "Dribbble",
-        "link": "https://dribbble.com"
+        "link": "https://dribbble.com/"
       },
       {
         "title": "LottieFiles",
-        "link": "https://lottiefiles.com"
+        "link": "https://lottiefiles.com/"
       },
       {
         "title": "Behance",
-        "link": "https://www.behance.net"
+        "link": "https://www.behance.net/"
       },
       {
         "title": "Headless UI",
-        "link": "https://headlessui.dev/vue/radio-group"
+        "link": "https://headlessui.dev/vue/radio-group/"
       },
       {
         "title": "Fluent UI",
-        "link": "https://developer.microsoft.com/en-us/fluentui#/get-started/web"
+        "link": "https://developer.microsoft.com/en-us/fluentui#/get-started/web/"
       },
       {
         "title": "Animate.css",
-        "link": "https://daneden.github.io/animate.css/"
+        "link": "https://daneden.github.io/animate.css//"
       },
       {
         "title": "Vue SFC Playground",
-        "link": "https://sfc.vuejs.org/#eyJBcHAudnVlIjoiPHRlbXBsYXRlPlxuICA8aDE+e3sgbXNnIH19PC9oMT5cbjwvdGVtcGxhdGU+XG5cbjxzY3JpcHQgc2V0dXA+XG5jb25zdCBtc2cgPSAnSGVsbG8gV29ybGQhJ1xuPC9zY3JpcHQ+In0="
+        "link": "https://sfc.vuejs.org/#eyJBcHAudnVlIjoiPHRlbXBsYXRlPlxuICA8aDE+e3sgbXNnIH19PC9oMT5cbjwvdGVtcGxhdGU+XG5cbjxzY3JpcHQgc2V0dXA+XG5jb25zdCBtc2cgPSAnSGVsbG8gV29ybGQhJ1xuPC9zY3JpcHQ+In0=/"
       },
       {
         "title": "AST explorer",
-        "link": "https://astexplorer.net/"
+        "link": "https://astexplorer.net//"
       },
       {
         "title": "Live DOM Viewer",
-        "link": "https://software.hixie.ch/utilities/js/live-dom-viewer/"
+        "link": "https://software.hixie.ch/utilities/js/live-dom-viewer//"
       },
       {
         "title": "Babel",
-        "link": "https://babeljs.io/repl/#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=3.6&spec=false&loose=false&code_lz=GYVwdgxgLglg9mABACwKYBt1wBQEpEDeAUIogE6pQhlIA8AJjAG4B8AEhlogO5xnr0AhLQD0jVgG4iAXyJA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=react&prettier=false&targets=&version=7.16.9&externalPlugins=&assumptions=%7B%7D"
+        "link": "https://babeljs.io/repl/#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=3.6&spec=false&loose=false&code_lz=GYVwdgxgLglg9mABACwKYBt1wBQEpEDeAUIogE6pQhlIA8AJjAG4B8AEhlogO5xnr0AhLQD0jVgG4iAXyJA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=react&prettier=false&targets=&version=7.16.9&externalPlugins=&assumptions=%7B%7D/"
       }
     ]
   }
