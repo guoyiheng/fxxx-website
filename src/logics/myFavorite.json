@@ -7,12 +7,17 @@
         "link": "https://v3.cn.vuejs.org/guide/introduction.html"
       },
       {
-        "title": "Netlify",
-        "link": "https://app.netlify.com"
+        "title": "Vite",
+        "link": "https://cn.vitejs.dev"
       },
       {
-        "title": "gitmoji",
-        "link": "https://gitmoji.dev"
+        "title": "Vitest",
+        "link": "https://vitest.dev/guide"
+      },
+
+      {
+        "title": "Netlify",
+        "link": "https://app.netlify.com"
       },
       {
         "title": "Icônes",
@@ -23,8 +28,12 @@
         "link": "https://fxxx-icons.netlify.app"
       },
       {
-        "title": "flaticon",
+        "title": "Flaticon",
         "link": "https://www.flaticon.com"
+      },
+      {
+        "title": "Gitmoji",
+        "link": "https://gitmoji.dev"
       },
       {
         "title": "UnoCSS",
@@ -82,6 +91,27 @@
     ]
   },
   {
+    "name": "正则相关*",
+    "children": [
+      {
+        "title": "Visualizer",
+        "link": "https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24"
+      },
+      {
+        "title": "regex101",
+        "link": "https://regex101.com/r/dmRygT/1"
+      },
+      {
+        "title": "learn-regex",
+        "link": "https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md"
+      },
+      {
+        "title": "super-expressive",
+        "link": "https://github.com/francisrstokes/super-expressive"
+      }
+    ]
+  },
+  {
     "name": "开发模板*",
     "children": [
       {
@@ -110,6 +140,7 @@
       }
     ]
   },
+
   {
     "name": "资源&设计*",
     "children": [
@@ -202,7 +233,7 @@
         "link": "http://hj.vc"
       },
       {
-        "title": "CSS arrow code Generator",
+        "title": "CSS arrow",
         "link": "https://works.yangerxiao.com/css-arrow-generator"
       },
       {
@@ -260,52 +291,6 @@
       {
         "title": "Babel",
         "link": "https://babeljs.io/repl/#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=3.6&spec=false&loose=false&code_lz=GYVwdgxgLglg9mABACwKYBt1wBQEpEDeAUIogE6pQhlIA8AJjAG4B8AEhlogO5xnr0AhLQD0jVgG4iAXyJA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=react&prettier=false&targets=&version=7.16.9&externalPlugins=&assumptions=%7B%7D"
-      }
-    ]
-  },
-  {
-    "name": "正则相关*",
-    "children": [
-      {
-        "title": "Visualizer",
-        "link": "https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24"
-      },
-      {
-        "title": "regex101",
-        "link": "https://regex101.com/r/dmRygT/1"
-      },
-      {
-        "title": "learn-regex",
-        "link": "https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md"
-      },
-      {
-        "title": "super-expressive",
-        "link": "https://github.com/francisrstokes/super-expressive"
-      }
-    ]
-  },
-  {
-    "name": "适配相关*",
-    "children": [
-      {
-        "title": "viewports剖析",
-        "link": "https://www.w3cplus.com/css/viewports.html"
-      },
-      {
-        "title": "再聊移动端页面的适配",
-        "link": "https://www.w3cplus.com/css/vw-for-layout.html"
-      },
-      {
-        "title": "使用Flexible实现手淘H5页面的终端适配",
-        "link": "https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html"
-      },
-      {
-        "title": "如何在Vue项目中使用vw实现移动端适配",
-        "link": "https://www.w3cplus.com/mobile/vw-layout-in-vue.html"
-      },
-      {
-        "title": "响应式设计",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzAwNDcyNjI3OA==&mid=2650843650&idx=2&sn=fc87b3371208d218834f25d5f7a97a79&chksm=80d3816bb7a4087dd24274b8d4ff30f9669100d6f925115d9b0457210e2cc6d3f330546bab09&mpshare=1&scene=1&srcid=0123GD8CWHEfgtxhPRqf8gyP&sharer_sharetime=1611376378220&sharer_shareid=55b0301d98e999078376faa9b0c4a3f0#rd"
       }
     ]
   }

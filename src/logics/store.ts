@@ -5,10 +5,12 @@ import myFavorite from '~/logics/myFavorite.json'
 export const historyVisit = useStorage<Website[]>('history-visit', [])
 
 export const websiteArray = computed(() => {
-  return [{
-    name: '历史访问',
-    children: historyVisit.value,
-  }, ...myFavorite, ...websiteArrayJson]
+  return historyVisit.value.length > 0
+    ? [{
+      name: '历史访问',
+      children: historyVisit.value,
+    }, ...myFavorite, ...websiteArrayJson]
+    : [...myFavorite, ...websiteArrayJson]
 })
 
 export const websiteRef = reactive<Record<string, HTMLElement>>({})

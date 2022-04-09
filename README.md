@@ -6,3 +6,4 @@ fine websites!!!
 
 - [] icon
 - [] favicon dynamic
+- [] storage bug

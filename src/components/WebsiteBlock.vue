@@ -14,8 +14,16 @@ function openLink() {
 
 <template>
   <div
-    w-230px h-25 transition overflow-y-hidden cursor-pointer flex="~ col gap-2" rounded p-3
+    w-230px
+    transition
+    overflow-y-hidden
+    cursor-pointer
+    flex="~ col gap-2"
+    rounded
+    p-3
     bg="gray-100 hover:gray-200 dark:zinc-700 hover:dark:zinc-800"
+    :h="website.description ? 25 : 14"
+    :class="{ 'justify-center': !website.description }"
     @click="openLink"
   >
     <div flex items-center>
@@ -24,7 +32,7 @@ function openLink() {
         {{ website.title }}
       </div>
     </div>
-    <div text-sm>
+    <div v-if="website.description" text-sm>
       {{ website.description }}
     </div>
   </div>
