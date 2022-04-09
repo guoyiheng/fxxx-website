@@ -1,3 +1,8 @@
 # fxxx-website
 
-awesome websites!!!
+fine websites!!!
+
+# TODO
+
+- [] icon
+- [] favicon dynamic

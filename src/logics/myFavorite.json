@@ -19,6 +19,10 @@
         "link": "https://icones.netlify.app/collection/carbon"
       },
       {
+        "title": "Fine icon for Notion",
+        "link": "https://fxxx-icons.netlify.app"
+      },
+      {
         "title": "flaticon",
         "link": "https://www.flaticon.com"
       },
@@ -49,7 +53,7 @@
     ]
   },
   {
-    "name": "社交",
+    "name": "社交*",
     "children": [
       {
         "link": "https://www.notion.so",
@@ -114,6 +118,10 @@
         "link": "https://devhints.io"
       },
       {
+        "title": "disco-elysium",
+        "link": "https://disco-elysium.netlify.app"
+      },
+      {
         "title": "Faviator",
         "link": "https://www.faviator.xyz/playground"
       },
@@ -122,7 +130,7 @@
         "link": "https://carbon.now.sh/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=seti&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=const%2520pluckDeep%2520%253D%2520key%2520%253D%253E%2520obj%2520%253D%253E%2520key.split(%27.%27).reduce((accum%252C%2520key)%2520%253D%253E%2520accum%255Bkey%255D%252C%2520obj)%250A%250Aconst%2520unfold%2520%253D%2520(f%252C%2520seed)%2520%253D%253E%2520%257B%250A%2520%2520const%2520go%2520%253D%2520(f%252C%2520seed%252C%2520acc)%2520%253D%253E%2520%257B%250A%2520%2520%2520%2520const%2520res%2520%253D%2520f(seed)%250A%2520%2520%2520%2520return%2520res%2520%253F%2520go(f%252C%2520res%255B1%255D%252C%2520acc.concat(%255Bres%255B0%255D%255D))%2520%253A%2520acc%250A%2520%2520%257D%250A%2520%2520return%2520go(f%252C%2520seed%252C%2520%255B%255D)%250A%257D"
       },
       {
-        "title": "代码中的流程图",
+        "title": "ASCIIFlow",
         "link": "http://asciiflow.com"
       },
       {
@@ -158,7 +166,7 @@
         "link": "https://cartoonize-lkqov62dia-de.a.run.app/cartoonize"
       },
       {
-        "title": "网页OCR文字识别",
+        "title": "OCR",
         "link": "https://web.baimiaoapp.com"
       },
       {
@@ -166,7 +174,7 @@
         "link": "https://transform.tools"
       },
       {
-        "title": "在线PS软件",
+        "title": "PS",
         "link": "https://www.uupoop.com/#/editor?id=17935805064555614&mode=user"
       },
       {
@@ -182,12 +190,8 @@
         "link": "https://smodin.io/translate-one-text-into-multiple-languages"
       },
       {
-        "title": "ImgURL免费图床",
+        "title": "ImgURL",
         "link": "https://imgurl.org"
-      },
-      {
-        "title": "让微信排版变 Nice",
-        "link": "https://mdnice.com"
       },
       {
         "title": "视力障碍测试",
