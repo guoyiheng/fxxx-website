@@ -30,7 +30,9 @@ const domain = computed<string>(() => {
     @click="_visit"
   >
     <div flex items-center>
-      <div w-5 h-5 mr-2 :style="{ background: 'no-repeat center/contain url(https://favicon.splitbee.io/?url=' + domain + ')' }" />
+      <!-- <div w-5 h-5 mr-2 :style="{ background: 'no-repeat center/contain url(https://favicon.splitbee.io/?url=' + domain + ')' }" /> -->
+      <img w-5 h-5 mr-2 :src="'https://favicon.splitbee.io/?url=' + domain">
+
       <div color-red-400>
         {{ website.title }}
       </div>
