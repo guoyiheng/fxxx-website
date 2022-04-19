@@ -23,16 +23,16 @@
         "link": "https://app.netlify.com/"
       },
       {
-        "title": "Icônes",
-        "link": "https://icones.netlify.app/collection/carbon/"
+        "title": "Namae",
+        "link": "https://namae.dev/"
       },
       {
-        "title": "Fine icon for Notion",
-        "link": "https://fxxx-icons.netlify.app/"
+        "title": "Excalidraw",
+        "link": "https://excalidraw.com/"
       },
       {
-        "title": "Gitmoji",
-        "link": "https://gitmoji.dev/"
+        "title": "Perflink",
+        "link": "https://perf.builder.io/?q=eyJpZCI6InJjbWN6eHRvenBtIiwidGl0bGUiOiJGaW5kaW5nIG51bWJlcnMgaW4gYW4gYXJyYXkiLCJiZWZvcmUiOiJjb25zdCBkYXRhID0gWy4uLkFycmF5KDEwMDApLmtleXMoKV0iLCJ0ZXN0cyI6W3sibmFtZSI6IkZpbmQgaXRlbSAxMDAiLCJjb2RlIjoiZGF0YS5maW5kKHggPT4geCA9PSAxMDApIiwib3BzIjoyMDMzNjAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gMjAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gMjAwKSIsIm9wcyI6OTk1NjAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gNDAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gNDAwKSIsIm9wcyI6NTUzNTAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gODAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gODAwKSIsIm9wcyI6Mjc2NjAsInJ1bnMiOltdfV0sInVwZGF0ZWQiOiIyMDIyLTA0LTAyVDE0OjQ3OjQ0LjgxNloifQ%3D%3D/"
       },
       {
         "title": "UnoCSS",
@@ -51,16 +51,20 @@
         "link": "https://animista.net/play/basic/"
       },
       {
-        "title": "Excalidraw",
-        "link": "https://excalidraw.com/"
+        "title": "Icônes",
+        "link": "https://icones.netlify.app/collection/carbon/"
       },
       {
-        "title": "Perflink",
-        "link": "https://perf.builder.io/?q=eyJpZCI6InJjbWN6eHRvenBtIiwidGl0bGUiOiJGaW5kaW5nIG51bWJlcnMgaW4gYW4gYXJyYXkiLCJiZWZvcmUiOiJjb25zdCBkYXRhID0gWy4uLkFycmF5KDEwMDApLmtleXMoKV0iLCJ0ZXN0cyI6W3sibmFtZSI6IkZpbmQgaXRlbSAxMDAiLCJjb2RlIjoiZGF0YS5maW5kKHggPT4geCA9PSAxMDApIiwib3BzIjoyMDMzNjAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gMjAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gMjAwKSIsIm9wcyI6OTk1NjAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gNDAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gNDAwKSIsIm9wcyI6NTUzNTAsInJ1bnMiOltdfSx7Im5hbWUiOiJGaW5kIGl0ZW0gODAwIiwiY29kZSI6ImRhdGEuZmluZCh4ID0%2BIHggPT0gODAwKSIsIm9wcyI6Mjc2NjAsInJ1bnMiOltdfV0sInVwZGF0ZWQiOiIyMDIyLTA0LTAyVDE0OjQ3OjQ0LjgxNloifQ%3D%3D/"
+        "title": "Fine icon for Notion",
+        "link": "https://fxxx-icons.netlify.app/"
       },
       {
         "title": "Flaticon",
         "link": "https://www.flaticon.com/"
+      },
+      {
+        "title": "Gitmoji",
+        "link": "https://gitmoji.dev/"
       }
     ]
   },
