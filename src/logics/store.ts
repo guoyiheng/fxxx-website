@@ -1,5 +1,4 @@
 import type { Website } from './types'
-import websiteJson from '~/logics/website.json'
 import favoriteJson from '~/logics/favorite.json'
 
 export const historyVisit = useStorage<Website[]>('history-visit', [])
@@ -9,8 +8,8 @@ export const websiteArray = computed(() => {
     ? [{
       name: '历史访问',
       children: historyVisit.value,
-    }, ...favoriteJson, ...websiteJson]
-    : [...favoriteJson, ...websiteJson]
+    }, ...favoriteJson]
+    : [...favoriteJson]
 })
 
 export const websiteRef = reactive<Record<string, HTMLElement>>({})

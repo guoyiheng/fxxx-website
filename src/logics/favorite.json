@@ -1,6 +1,6 @@
 [
   {
-    "name": "个人常用*",
+    "name": "个人常用",
     "children": [
       {
         "title": "Vue.js",
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "name": "社交*",
+    "name": "社交",
     "children": [
       {
         "link": "https://www.notion.so/",
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "name": "正则相关*",
+    "name": "正则相关",
     "children": [
       {
         "title": "Visualizer",
@@ -119,7 +119,7 @@
     ]
   },
   {
-    "name": "开发模板*",
+    "name": "开发模板",
     "children": [
       {
         "title": "antfu/ts-starter",
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "name": "资源&设计*",
+    "name": "资源&设计",
     "children": [
       {
         "title": "Devhints",
